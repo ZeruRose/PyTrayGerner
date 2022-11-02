@@ -1,0 +1,4 @@
+numpy
+PIL
+pywin32
+keyboard
